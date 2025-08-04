@@ -3902,3 +3902,4 @@ if __name__ == '__main__':
     except Exception as e:
         logger.error(f"Bot failed to start: {str(e)}")
         sys.exit(1)
+
